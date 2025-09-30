@@ -1,0 +1,53 @@
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 30px;
+}
+
+h3 {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 30px;
+}
+
+body {
+	background-image: url("mer jpeg.bmp");
+	margin: auto;
+	border-color: #11103b;
+	border-left-style: solid;
+	border-width: 30vh;
+	border-right-style: solid;
+	border-width: 30vh;
+
+}
+
+.list{
+	text-align: left;
+	position: relative;
+	left: 20vh;
+	font-size: 19px;
+	color: #11103b;
+	line-height: 2;
+	word-spacing: 10px;
+	display: incline-block;
+	list-style-type: none;
+}
+
+a:link {
+	color: #11103b;
+}
+
+a:link, a:visited {
+	color: #11103b;
+}
+
+a:hover {
+	opacity: 0.5;
+	color: #11103b;
+	padding: 0px;
+}
+
+.summary{
+	margin-right: 15px;
+	margin-left: 15px;
+}
